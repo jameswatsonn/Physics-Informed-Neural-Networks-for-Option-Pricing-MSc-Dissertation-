@@ -23,4 +23,4 @@ Developed a novel AI pricing engine using Physics-Informed Neural Networks (PINN
 
 - **Report:** Full project report available for download via the link below:
 
-**[⬇️ Download Full Project Report (PDF)](https://github.com/jameswatsonn/Mutation-Bias-in-Pathogenic-Bacteria-BSc-Final-Year-Project-/raw/main/docs/Report.pdf)**
+**[⬇️ Download Full Project Report (PDF)](https://github.com/jameswatsonn/Physics-Informed-Neural-Networks-for-Option-Pricing-MSc-Dissertation-/raw/main/docs/Report-PDF/Physics-Informed-Neural-Networks-for-Parametric-and-Non-Parametric-Option-Pricing_From-Black-Scholes-to-Stochastic-Volatility-(8).pdf)**
