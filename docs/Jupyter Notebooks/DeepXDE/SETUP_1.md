@@ -1,6 +1,6 @@
 ## 🚀 Installation & Setup
 
-### Option 1: Conda Environment - GPU Enabled PyTorch Backend (Recommended)
+### Conda Environment - GPU Enabled PyTorch Backend (Recommended)
 ```bash
 # Create and activate environment
 conda create -n pytorch_xde python=3.9
