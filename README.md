@@ -19,7 +19,7 @@ Developed a novel AI pricing engine using Physics-Informed Neural Networks (PINN
 
 ## 📂 Project Documentation
 
-- **Code:** All pipelines and jupyter notebooks are available in the main repository
+- **Code:** All pipelines and jupyter notebooks are available in the main repository, under [Code.R](Code.R)
 
 - **Report:** Full project report available for download via the link below:
 
