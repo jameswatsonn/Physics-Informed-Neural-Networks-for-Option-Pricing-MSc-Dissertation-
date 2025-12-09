@@ -10,9 +10,9 @@
 Developed a novel AI pricing engine using Physics-Informed Neural Networks (PINNs) to solve the fundamental PDEs of option pricing models, enabling fast, accurate valuation of European options under both Black-Scholes and complex stochastic volatility (Heston) models.
 
 ### Key Achievements:
-- **High Accuracy:** Achieved L2 relative error < 1×10⁻⁴ through extensive back-testing
+- **High Accuracy:** Achieved L2 relative error < 1×10⁻⁴ through extensive back-testing and optimization
 - **Robust Architecture:** Engineered model to be resilient to market regime shifts via hard-coded financial mathematics in loss function
-- **Production-Ready:** Designed for deployment in low-latency trading systems with single-GPU training (<30 minutes)
+- **Production-Ready:** Designed for deployment in low-latency trading systems
 - **Innovative Approach:** Eliminated dependency on vast historical data and frequent computational recalibration
 
 ---
