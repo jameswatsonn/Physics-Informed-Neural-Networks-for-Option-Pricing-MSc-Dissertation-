@@ -19,7 +19,7 @@ Developed a novel AI pricing engine using Physics-Informed Neural Networks (PINN
 
 ## 📂 Project Documentation
 
-- **Code:** All pipelines and jupyter notebooks are available in the main repository, under [Jupyter Notebooks](https://github.com/jameswatsonn/Physics-Informed-Neural-Networks-for-Option-Pricing-MSc-Dissertation-/tree/main/docs/Jupyter%20Notebooks)
+- **Code:** All pipelines and jupyter notebooks are available in the main repository, under [Jupyter Notebooks](https://github.com/jameswatsonn/Physics-Informed-Neural-Networks-for-Option-Pricing-MSc-Dissertation-/tree/main/Jupyter%20Notebooks)
 
 - **Report:** Full project report available for download via the link below:
 
